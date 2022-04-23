@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgba(0, 0, 0, 0.623);
+}
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    text-align: center;
+    background-color: rgba(136, 134, 12, 0.616);
+    padding: 15px;
+    border-radius: 10px;
+
+}
+.navbar a{
+    padding-right: 30px;
+    font-size:x-large;
+    color: mintcream;
+    font-family: cursive;
+    
+}
+.title{
+    font-size: 55px;
+    font-family: cursive;
+    margin-block-start: auto;
+    margin-bottom: 1px;
+}
+ h3{
+    font-family:cursive;
+    font-size:20px;
+    margin-block-start: 1px;
+    color: azure;
+}
+.descrition{
+    color: azure;
+    font-family:cursive ;
+    font-size: 13px;
+    width: 50%;
+    margin: auto;
+}
+table tr td{
+
+    font-family: cursive;
+    color: azure; 
+}
+
+img{
+    border-radius: 10px;
+    box-shadow: 0 0 20px black;
+}
+.subtitle1{
+    color: azure;
+}
+.southdesc{
+    color: azure;
+    font-family:cursive ;
+    font-size: 13px;
+    color: azure;
+}
+.subtitle2{
+    text-align: center;   
+}
+.northdesc{
+    color: azure;
+    font-family:cursive ;
+    font-size: 13px;
+    color: azure;
+    text-align: center;
+}
+.chdsc{
+    color: azure;
+    font-family:cursive ;
+    font-size: 13px;
+    color: azure;
+    text-align: center;
+}
+.footer{
+    padding-left: 30px;
+}
+#footer1 a{
+    padding: 10px;
+    color: azure;
+    float: left;
+    
+}
+#footer1{
+    padding-left: 30px;
+    
+}
+.bottomLink{
+    color: azure;
+    padding-left: 20px;
+    padding-top: 0px;
+}
